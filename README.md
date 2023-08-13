@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hacker273020
 - 👀 I’m interested in ... Programming and ethical Hacking
-- 🌱 I’m currently learning ... Programming in Bash and Python
+- 🌱 I’m currently learning ... Programming in Python and Bash
 - 💞️ I’m looking to collaborate on ... Some organization or company
 - 📫 How to reach me ... by Gmail drawbox273020@gmail.com
 
